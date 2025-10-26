@@ -1,0 +1,10 @@
+body {
+    background: white url('images/graphic-design-picture.png') no-repeat center center fixed;
+    background-size: cover;
+    margin: 0;
+    height: 100vh;
+}
+
+li a {
+    color: green;
+}
